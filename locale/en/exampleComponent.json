@@ -30,5 +30,7 @@
   "u": "Ai Assistant is temporarily unavailable. Please try later",
 
   "v": "{{points}} or hold ${{holdTokensUsd}} in {{appCoinSymbol}}",
-  "w": "{{points}} points"
+  "w": "{{points}} points",
+
+  "newlyAdded": "Hello to the world, I like ice cream",
 }
