@@ -15,22 +15,20 @@
   "l": "This phone number does not belong to user",
   "m": "Captcha required",
 
-   "1": {
+   "n": {
       "1.1": "Add a new Sub-account by upgrading your tier.",
-      "1.2": "Consider renaming or reusing one of the existing sub-accounts."
-    },
+      "1.2": "Consider renaming or reusing one of the existing sub-accounts.",
+  },
 
-
-    "a": "No available offers at the moment",
-  "b": "Min deposit amount is ${{minDepositAmountUSD}}",
-  "c": "Min withdrawal amount is ${{minWithdrawalAmountUSD}}",
-  "d": "Deposits are temporarily unavailable. Please try again later",
-  "e": "Withdrawals are temporarily unavailable. Please try again later",
-  "f": "Perps are temporarily unavailable. Please try again later",
+  "o": "No available offers at the moment",
+  "p": "Min deposit amount is ${{minDepositAmountUSD}}",
+  "q": "Min withdrawal amount is ${{minWithdrawalAmountUSD}}",
+  "r": "Deposits are temporarily unavailable. Please try again later",
+  "s": "Withdrawals are temporarily unavailable. Please try again later",
+  "t": "Perps are temporarily unavailable. Please try again later",
   
-  "g": "Ai Assistant is temporarily unavailable. Please try later",
+  "u": "Ai Assistant is temporarily unavailable. Please try later",
 
-  "a": "{{points}} or hold ${{holdTokensUsd}} in {{appCoinSymbol}}",
-  "b": "{{points}} points"
-  
+  "v": "{{points}} or hold ${{holdTokensUsd}} in {{appCoinSymbol}}",
+  "w": "{{points}} points"
 }
