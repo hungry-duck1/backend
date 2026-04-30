@@ -24,5 +24,7 @@
     "t": "Perps no están disponibles temporalmente. Inténtelo más tarde",
     "u": "Ai Assistant no está disponible temporalmente. Pruebe más tarde",
     "v": "{{points}} o mantener ${holdTokensUsd} en {{appCoinSymbol}",
-    "w": "puntos"
+    "w": "puntos",
+    "newlyAdded": "Hola al mundo, me gusta el helado",
+    "newlyAdded2": "Ejemplo de error"
 }
