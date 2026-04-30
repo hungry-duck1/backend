@@ -16,8 +16,8 @@
   "m": "Captcha required",
     
   "n": {
-      "1.1": "Add a new Sub-account by upgrading your tier.",
-      "1.2": "Consider renaming or reusing one of the existing sub-accounts."
+      "nn": "Add a new Sub-account by upgrading your tier.",
+      "nnn": "Consider renaming or reusing one of the existing sub-accounts."
   },
 
   "o": "No available offers at the moment",
