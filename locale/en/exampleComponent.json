@@ -1,0 +1,36 @@
+{
+  "a": "Invalid request",
+  "b": "Invalid marker",
+
+  "c": "Authentication required",
+  "d": "Resource not found, invalid path",
+  "e": "Confirmation code can be re-sent in a minute",
+  "f": "Application request limit reached",
+  "g": "You can't perform this action for your own profile",
+
+  "h": "User with such phone number already exists",
+  "i": "New phone number must differ from already used one",
+  "j": "Incorrect phone number. Please double check it and try again",
+  "k": "Limit reached. Maximum limit is 2 phone numbers",
+  "l": "This phone number does not belong to user",
+  "m": "Captcha required",
+
+   "1": {
+      "1.1": "Add a new Sub-account by upgrading your tier.",
+      "1.2": "Consider renaming or reusing one of the existing sub-accounts."
+    },
+
+
+    "a": "No available offers at the moment",
+  "b": "Min deposit amount is ${{minDepositAmountUSD}}",
+  "c": "Min withdrawal amount is ${{minWithdrawalAmountUSD}}",
+  "d": "Deposits are temporarily unavailable. Please try again later",
+  "e": "Withdrawals are temporarily unavailable. Please try again later",
+  "f": "Perps are temporarily unavailable. Please try again later",
+  
+  "g": "Ai Assistant is temporarily unavailable. Please try later",
+
+  "a": "{{points}} or hold ${{holdTokensUsd}} in {{appCoinSymbol}}",
+  "b": "{{points}} points",
+  
+}
