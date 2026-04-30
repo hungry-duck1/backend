@@ -31,6 +31,6 @@
   "g": "Ai Assistant is temporarily unavailable. Please try later",
 
   "a": "{{points}} or hold ${{holdTokensUsd}} in {{appCoinSymbol}}",
-  "b": "{{points}} points",
+  "b": "{{points}} points"
   
 }
